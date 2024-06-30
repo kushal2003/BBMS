@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"name": "admin",
+			"path": "../Downloads/BBMS 5/admin"
+		},
+		{
+			"name": "bbms Final",
+			"path": "."
+		},
+		{
+			"name": "bootstrap",
+			"path": "../Downloads/BBMS 5/bootstrap"
+		},
+		{
+			"name": "css",
+			"path": "../Downloads/BBMS 5/css"
+		},
+		{
+			"name": "database file",
+			"path": "../Downloads/BBMS 5/database file"
+		},
+		{
+			"name": "donor",
+			"path": "../Downloads/BBMS 5/donor"
+		},
+		{
+			"name": "images",
+			"path": "../Downloads/BBMS 5/images"
+		},
+		{
+			"name": "includes",
+			"path": "../Downloads/BBMS 5/includes"
+		},
+		{
+			"name": "patient",
+			"path": "../Downloads/BBMS 5/patient"
+		}
+	],
+	"settings": {}
+}
